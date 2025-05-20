@@ -1,0 +1,98 @@
+[
+	{
+		"de": "Anthrazit",
+		"en": "anthracite",
+		"fr": "anthracite",
+		"bg": "bg-[#848484]"
+	},
+	{
+		"de": "beige",
+		"en": "beige",
+		"fr": "beige",
+		"bg": "bg-[#ddcaa6]"
+	},
+	{
+		"de": "schwarz",
+		"en": "black",
+		"fr": "noir",
+		"bg": "bg-[black]"
+	},
+	{
+		"de": "blau",
+		"en": "blue",
+		"fr": "bleu",
+		"bg": "bg-[#1e73be]"
+	},
+	{
+		"de": "braun",
+		"en": "brown",
+		"fr": "brun",
+		"bg": "bg-[#936920]"
+	},
+	{
+		"de": "gold",
+		"en": "gold",
+		"fr": "or",
+		"bg": "bg-[#eac220]"
+	},
+	{
+		"de": "grün",
+		"en": "green",
+		"fr": "vert",
+		"bg": "bg-[#81d742]"
+	},
+	{
+		"de": "grau",
+		"en": "grey",
+		"fr": "gris",
+		"bg": "bg-[#b4b4b4]"
+	},
+	{
+		"de": "orange",
+		"en": "orange",
+		"fr": "orange",
+		"bg": "bg-[#ff6d2a]"
+	},
+	{
+		"de": "pink",
+		"en": "pink",
+		"fr": "rose",
+		"bg": "bg-[#e0afcf]"
+	},
+	{
+		"de": "rot",
+		"en": "red",
+		"fr": "rouge",
+		"bg": "bg-[#dd3333]"
+	},
+	{
+		"de": "silber",
+		"en": "silver",
+		"fr": "argent",
+		"bg": "bg-[#cccccc]"
+	},
+	{
+		"de": "türkis",
+		"en": "turquoise",
+		"fr": "turquoise",
+		"bg": "bg-[#1fb1c1]"
+	},
+	{
+		"de": "violett",
+		"en": "violet",
+		"fr": "violet",
+		"bg": "bg-[#8224e3]"
+	},
+	{
+		"de": "weiß",
+		"en": "white",
+		"fr": "blanche",
+		"bg": "bg-[white]"
+	},
+	{
+		"de": "gelb",
+		"en": "yellow",
+		"fr": "jaune",
+		"bg": "bg-[#eeee22]"
+	}
+]

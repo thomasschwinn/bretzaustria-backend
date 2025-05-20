@@ -1,0 +1,66 @@
+[
+	{
+		"name": ".emptyFolderPlaceholder",
+		"id": "5a36acb3-d11e-4316-838f-c36b11f3cbf4",
+		"updated_at": "2023-06-30T12:08:39.370491+00:00",
+		"created_at": "2023-06-30T12:08:39.295255+00:00",
+		"last_accessed_at": "2023-06-30T12:08:39.295255+00:00",
+		"metadata": {
+			"eTag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+			"size": 0,
+			"mimetype": "application/octet-stream",
+			"cacheControl": "max-age=3600",
+			"lastModified": "2023-06-30T12:08:40.000Z",
+			"contentLength": 0,
+			"httpStatusCode": 200
+		}
+	},
+	{
+		"name": "datenschutzerklaerung_de.html",
+		"id": "85f015d0-2800-4280-aa82-57f2d4721528",
+		"updated_at": "2023-06-30T12:08:47.471286+00:00",
+		"created_at": "2023-06-30T12:08:47.348315+00:00",
+		"last_accessed_at": "2023-06-30T12:08:47.348315+00:00",
+		"metadata": {
+			"eTag": "\"9379e09726df680b415e1949f3b152f0\"",
+			"size": 93783,
+			"mimetype": "text/html",
+			"cacheControl": "max-age=3600",
+			"lastModified": "2023-06-30T12:08:48.000Z",
+			"contentLength": 93783,
+			"httpStatusCode": 200
+		}
+	},
+	{
+		"name": "datenschutzerklaerung_en.html",
+		"id": "3577c93a-71ca-4c5f-a68f-af4efda9aef4",
+		"updated_at": "2023-06-30T12:08:47.468644+00:00",
+		"created_at": "2023-06-30T12:08:47.384323+00:00",
+		"last_accessed_at": "2023-06-30T12:08:47.384323+00:00",
+		"metadata": {
+			"eTag": "\"b47063ca715a1957fcfcd3b16fa6d3d2\"",
+			"size": 81089,
+			"mimetype": "text/html",
+			"cacheControl": "max-age=3600",
+			"lastModified": "2023-06-30T12:08:48.000Z",
+			"contentLength": 81089,
+			"httpStatusCode": 200
+		}
+	},
+	{
+		"name": "datenschutzerklaerung_fr.html",
+		"id": "3adeea7b-b16f-43bf-ac5c-a803a10d9955",
+		"updated_at": "2023-06-30T12:08:47.447002+00:00",
+		"created_at": "2023-06-30T12:08:47.345366+00:00",
+		"last_accessed_at": "2023-06-30T12:08:47.345366+00:00",
+		"metadata": {
+			"eTag": "\"7cfe960f6ffb669f301df2abb164c888\"",
+			"size": 92710,
+			"mimetype": "text/html",
+			"cacheControl": "max-age=3600",
+			"lastModified": "2023-06-30T12:08:48.000Z",
+			"contentLength": 92710,
+			"httpStatusCode": 200
+		}
+	}
+]
